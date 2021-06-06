@@ -1,5 +1,7 @@
 # 利用Github Pages搭建个人在线简历
 
+[我的简历](https://jianwan.github.io/resume/)
+
 ----
 
 #### 什么是 Github Pages？
